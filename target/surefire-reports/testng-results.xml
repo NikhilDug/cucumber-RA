@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-19T16:41:36Z" name="Cucumber Suite" finished-at="2023-02-19T16:41:44Z" duration-ms="8395">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunCucumberTest@6e509ffa]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-02-19T16:41:36Z" name="Cucumber Tests" finished-at="2023-02-19T16:41:44Z" duration-ms="8395">
+      <class name="RunCucumberTest">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:RunCucumberTest@6e509ffa]" started-at="2023-02-19T16:41:36Z" name="setUpClass" finished-at="2023-02-19T16:41:37Z" duration-ms="960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunCucumberTest@6e509ffa]" started-at="2023-02-19T16:41:37Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-19T16:41:41Z" duration-ms="4339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the ID of a given city"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Test Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunCucumberTest@6e509ffa]" started-at="2023-02-19T16:41:41Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-19T16:41:41Z" duration-ms="278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the ID of a given city"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Test Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunCucumberTest@6e509ffa]" started-at="2023-02-19T16:41:41Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-19T16:41:42Z" duration-ms="261" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the ID of a given city"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Test Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunCucumberTest@6e509ffa]" started-at="2023-02-19T16:41:42Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-19T16:41:42Z" duration-ms="505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate status code of 200 for valid zip code"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Test Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunCucumberTest@6e509ffa]" started-at="2023-02-19T16:41:42Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-19T16:41:43Z" duration-ms="489" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate status code of 200 for valid zip code"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Test Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:RunCucumberTest@6e509ffa]" started-at="2023-02-19T16:41:43Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-02-19T16:41:43Z" duration-ms="332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate status code of 200 for valid zip code"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Test Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:RunCucumberTest@6e509ffa]" started-at="2023-02-19T16:41:43Z" name="tearDownClass" finished-at="2023-02-19T16:41:44Z" duration-ms="1176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- RunCucumberTest -->
+    </test> <!-- Cucumber Tests -->
+  </suite> <!-- Cucumber Suite -->
+</testng-results>
